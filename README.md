@@ -45,7 +45,7 @@ $chart->setTitle("Annual usage for easychart");
 echo $chart->render();
 ```
 
-![Vertical Bar](https://github.com/fernandowobeto/easychart/raw/master/docs/images/vertical_bar.png)
+![Vertical Bar](https://github.com/yimengyisheng/easycharts/blob/main/docs/images/vertical_bar.png)
 
 Horizontal Bar Chart
 --------------------
@@ -69,7 +69,7 @@ $chart->setTitle("Most visited pages");
 echo $chart->render();
 ```
 
-![Horizontal Bar](https://github.com/fernandowobeto/easychart/raw/master/docs/images/horizontal_chart.png)
+![Horizontal Bar](https://github.com/yimengyisheng/easycharts/blob/main/docs/images/horizontal_chart.png)
 
 Pie Chart
 ---------
@@ -93,7 +93,7 @@ $chart->setTitle("User agents for www.example.com");
 echo $chart->render();
 ```
 
-![Pie Chart](https://github.com/fernandowobeto/easychart/raw/master/docs/images/pie_chart.png)
+![Pie Chart](https://github.com/yimengyisheng/easycharts/blob/main/docs/images/pie_chart.png)
 
 Multiple line chart
 -------------------
@@ -160,7 +160,7 @@ $chart->getPlot()->setGraphCaptionRatio(0.62);
 echo $chart->render();
 ```
 
-![Multiple Line Chart](https://github.com/fernandowobeto/easychart/raw/master/docs/images/multiple_line_chart.png)
+![Multiple Line Chart](https://github.com/yimengyisheng/easycharts/blob/main/docs/images/multiple_line_chart.png)
 
 Multiple vertical bar chart
 -------------------
@@ -197,7 +197,7 @@ $chart->setTitle("Average family income (k$)");
 echo $chart->render();
 ```
 
-![Multiple Vertical Bar](https://github.com/fernandowobeto/easychart/raw/master/docs/images/multiple_vertical_bar_chart.png)
+![Multiple Vertical Bar](https://github.com/yimengyisheng/easycharts/blob/main/docs/images/images/multiple_vertical_bar_chart.png)
 
 Multiple horizontal bar chart
 -------------------
@@ -231,4 +231,4 @@ $chart->setTitle("Firefox vs Chrome users: Age");
 echo $chart->render();
 ```
 
-![Multiple Horizontal Bar](https://github.com/fernandowobeto/easychart/raw/master/docs/images/multiple_horizontal_bar_chart.png)
+![Multiple Horizontal Bar](https://github.com/yimengyisheng/easycharts/blob/main/docs/images/multiple_horizontal_bar_chart.png)
