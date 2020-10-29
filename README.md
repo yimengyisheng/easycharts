@@ -1,4 +1,4 @@
-##EasyChart
+EasyChart
 =========
 Supports Chinese PHP chart extension package
 ## Features
