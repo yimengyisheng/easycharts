@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 EasyChart
 =========
 Supports Chinese PHP chart extension package
@@ -232,3 +233,6 @@ echo $chart->render();
 ```
 
 ![Multiple Horizontal Bar](https://github.com/fernandowobeto/easychart/raw/master/docs/images/multiple_horizontal_bar_chart.png)
+=======
+# easycharts
+>>>>>>> f1ccedd7f14fa079ad0b83511ce8173c1ce5a6a9
