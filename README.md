@@ -14,7 +14,7 @@ Add weims/chart to your composer.json file:
 
 ```
 "require": {
-  "weims/chart": "0.6.0"
+  "weims/chart": "1.0"
 }
 ```
 
